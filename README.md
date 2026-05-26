@@ -1,5 +1,6 @@
 ## 🔥 Project Name - CM-KASZTANOWA
 
+[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/Klinika/)
 
 ## 📚 Key Features
 * **Fully Responsive Design** – Looks great on mobile, tablet, and desktop.
