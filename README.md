@@ -1,5 +1,8 @@
 ## 🔥 Project Name - CM-KASZTANOWA
 
+<img width="1893" height="910" alt="Zrzut ekranu 2026-05-28 091322" src="https://github.com/user-attachments/assets/084e153a-2988-4de6-bd3d-7ea89b9d5884" />
+
+
 [![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/CM-Kasztanowa/)
 
 A responsive, high-performance, and customized website design for a medical clinic utilizing HTML5, CSS3, JavaScript, and Bootstrap. It is designed to elevate your clinic above the competition and provide ultimate convenience for mobile users.
